@@ -42,7 +42,7 @@ export function HeroSection() {
       {/* Background Image */}
         <div className="absolute inset-0 z-0">
         <Image
-          src="/farm/flournew.jpeg"
+          src="/farm/herobg.png"
           alt="Farm background"
           fill
           priority

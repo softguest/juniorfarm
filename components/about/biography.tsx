@@ -84,7 +84,7 @@ export function Biography() {
                 viewport={{ once: true }}
                 transition={{ delay: 0.1 }}
               >
-                With a Bachelor of Science degree in Agriculture, specializing in Plant Health Management from the prestigious University of Buea, I have dedicated my career to bridging the gap between scientific research and practical farming solutions.
+                I am an Undergraduate degree student in Agriculture, specializing in Plant Health Management from the prestigious University of Buea, I have dedicated my career to bridging the gap between scientific research and practical farming solutions.
               </motion.p>
 
               <motion.p
