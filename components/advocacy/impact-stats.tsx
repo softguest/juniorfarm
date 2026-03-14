@@ -7,14 +7,14 @@ import { Users, BookOpen, MapPin, TreePine } from "lucide-react"
 const stats = [
   {
     icon: Users,
-    value: 500,
+    value: 50,
     suffix: "+",
     label: "Farmers Impacted",
     description: "Smallholder farmers supported through training and resources",
   },
   {
     icon: BookOpen,
-    value: 50,
+    value: 20,
     suffix: "+",
     label: "Workshops Delivered",
     description: "Training sessions on agriculture and climate practices",

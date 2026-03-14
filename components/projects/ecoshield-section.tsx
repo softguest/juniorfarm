@@ -14,8 +14,8 @@ const features = [
 ]
 
 const stats = [
-  { label: "Soil Restored", value: "500+" , unit: "Hectares" },
-  { label: "Farmers Reached", value: "200+", unit: "Families" },
+  { label: "Soil Restored", value: "100+" , unit: "Meters" },
+  { label: "Farmers Reached", value: "100+", unit: "Families" },
   { label: "Yield Increase", value: "40%", unit: "Average" },
 ]
 

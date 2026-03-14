@@ -21,7 +21,7 @@ const awards = [
   {
     icon: Award,
     title: "Nourishing Africa Pitching Competition",
-    description: "Winner of the prestigious 2025 competition for innovative agricultural solutions in Africa.",
+    description: "Third place winner of the prestigious 2025 competition for innovative agricultural solutions in Cameroon.",
     year: "2025",
     color: "from-blue-500 to-cyan-500",
   },
@@ -54,10 +54,10 @@ export function Awards() {
         >
           <span className="text-primary font-medium">Recognition</span>
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-foreground mt-2 mb-4">
-            Awards & Achievements
+            Academic Excellence Awards
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            Honored for contributions to agricultural innovation and community empowerment
+            Honored for contributions to agricultural innovation and academic excellence.
           </p>
         </motion.div>
 

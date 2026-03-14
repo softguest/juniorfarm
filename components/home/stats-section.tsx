@@ -7,19 +7,19 @@ import { Users, Leaf, Award, BookOpen } from "lucide-react"
 const stats = [
   {
     icon: Users,
-    value: 500,
+    value: 50,
     suffix: "+",
     label: "Farmers Impacted",
   },
   {
     icon: BookOpen,
-    value: 50,
+    value: 20,
     suffix: "+",
     label: "Workshops Delivered",
   },
   {
     icon: Leaf,
-    value: 1000,
+    value: 100,
     suffix: "+",
     label: "Students Trained",
   },

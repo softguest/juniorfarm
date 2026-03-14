@@ -8,7 +8,7 @@ const highlights = [
   {
     icon: Wheat,
     title: "Gluten-Free",
-    description: "Made from locally-sourced cassava and other grains",
+    description: "Made from locally-sourced plantain and other grains",
   },
   {
     icon: Heart,
