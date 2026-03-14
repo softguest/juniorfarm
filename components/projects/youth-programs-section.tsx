@@ -39,7 +39,7 @@ const programs = [
 
 const impactStats = [
   { value: "100+", label: "Students Trained" },
-  { value: "50+", label: "Workshops Held" },
+  { value: "20+", label: "Workshops Held" },
   { value: "15", label: "Communities Reached" },
   { value: "100+", label: "Youth Mentored" },
 ]
